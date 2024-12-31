@@ -14,7 +14,9 @@
 
 ### 👤 Connect with Me:
 <p align="left">
-  <a href="https://instagram.com/developer.adi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="developer.adi" height="30" width="40" /></a>
+   <a href="https://linktr.ee/developeradi" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/linktree/linktree-icon.svg" alt="Linktree" height="30" width="40" />
+  </a>
 </p>
 
 ---
