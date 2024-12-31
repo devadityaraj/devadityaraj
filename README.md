@@ -15,7 +15,7 @@
 ### 👤 Connect with Me:
 <p align="left">
    <a href="https://linktr.ee/developeradi" target="blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/linktree/linktree-icon.svg" alt="Linktree" height="30" width="40" />
+    <img align="center" src="https://linktr.ee/favicon.ico" alt="Linktree" height="30" width="40" />
   </a>
 </p>
 
