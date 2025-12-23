@@ -176,8 +176,4 @@ const aditya = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185e-9a22-11eb-8189-b690e34484dc.gif" width="400">
 
-**Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out!** 🚀
-
-<sub>Built with 🤖 AI, ☕ Coffee, and 💙 Passion</sub>
-
 </div>
