@@ -97,7 +97,7 @@ struct Engineer {
 <tr>
 <td valign="top" width="50%">
 
-** Building**
+**Building**
 - Quadruped Robot Dog 12DoF
 - Sensor-fusion pipelines (IMU + GPS + barometer)
 - Custom IoT dashboards
@@ -106,7 +106,7 @@ struct Engineer {
 </td>
 <td valign="top" width="50%">
 
-** Exploring**
+**Exploring**
 - CAD on Fusion306 and OnShape
 - Edge AI / on-device inference for real-time vision
 - ROS2 + DDS based multi-robot communication
@@ -115,10 +115,6 @@ struct Engineer {
 </td>
 </tr>
 </table>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="320">
-</div>
 
  **Open to collaborations on drones, robotics, embedded systems & IoT projects!**
 
