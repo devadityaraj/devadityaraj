@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👨‍💻 Aditya Raj
+# 🤖 Aditya Raj
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Engineer;Cloud+Architecture+Enthusiast;Building+Tomorrow's+Technology)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=650&lines=Embedded+Systems+Engineer;Drone+%26+Robotics+Developer;IoT+Solutions+Architect;Bringing+Hardware+to+Life+%F0%9F%9A%81)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -10,20 +10,22 @@
 
 ---
 
-## 🌐 About Me
+## 🛰️ About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Robot Arm" width="320" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
 
-I'm a **passionate developer** driven by curiosity and innovation. My journey in technology spans across multiple domains—from crafting elegant frontend experiences to architecting robust backend systems, and now venturing deep into the realm of **Artificial Intelligence** and **Machine Learning**.
+I'm an **embedded systems & robotics engineer** who lives at the intersection of **hardware and code**. While most developers stop at the screen, I go one step further — writing the firmware that spins motors, the control loops that keep drones airborne, and the sensor pipelines that let machines perceive the world around them.
 
-```javascript
-const aditya = {
-    location: "India 🇮🇳",
-    currentFocus: ["AI/ML", "System Design", "Cloud Architecture"],
-    learning: ["Deep Learning", "Neural Networks", "PyTorch"],
-    interests: ["Computer Vision", "NLP", "Distributed Systems"],
-    askMeAbout: ["Web Dev", "Backend", "AI", "Problem Solving"],
-    funFact: "Always learning, forever curious 🚀"
+From soldering a prototype PCB to flashing a flight controller and watching a quadcopter lift off for the first time — that full hardware-to-software loop is what drives me.
+
+```cpp
+struct Engineer {
+    const char* name        = "Aditya Raj";
+    const char* location     = "India 🇮🇳";
+    const char* domain[4]    = {"Embedded Systems", "Drones", "Robotics", "IoT"};
+    const char* mcu[4]       = {"ESP32", "STM32", "Arduino", "Raspberry Pi"};
+    const char* stack[3]     = {"ROS / ROS2", "PX4 / ArduPilot", "RTOS"};
+    bool        currentlyFlying = true;
 };
 ```
 
@@ -31,20 +33,36 @@ const aditya = {
 
 ---
 
-## 🎯 Current Mission
+## 🎯 Mission Control
 
 <div align="center">
 
+```
+                    ╔═══╗               ╔═══╗
+                     ║   ╲             ╱   ║
+                     ║    ╲           ╱    ║
+                     ║     ●═════════●     ║
+                     ╚═══╗ │         │ ╔═══╝
+                          ╲│   🛸    │╱
+                           ●═════════●
+                          ╱│         │╲
+                     ╔═══╝ │         │ ╚═══╗
+                     ║     ●═════════●     ║
+                     ║    ╱           ╲    ║
+                     ║   ╱             ╲   ║
+                    ╚═══╝               ╚═══╝
+```
+
 ```ascii
-╔════════════════════════════════════════════════════════════════╗
-║                                                                ║
-║  🔬  Exploring the frontiers of Machine Learning              ║
-║  🏗️  Building scalable, production-ready applications         ║
-║  🤝  Contributing to open-source communities                  ║
-║  📚  Continuous learning and skill enhancement                ║
-║  💡  Solving real-world problems with code                    ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║  🔧  Designing & flashing firmware for microcontrollers          ║
+║  🚁  Building and tuning autonomous drones                       ║
+║  🦾  Engineering robots that sense, decide, and move             ║
+║  📡  Connecting devices to the cloud — the IoT way                ║
+║  🧠  Fusing sensors, signals, and embedded AI                     ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -54,44 +72,92 @@ const aditya = {
 ## 🛠️ Tech Arsenal
 
 <div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif" width="450">
+</div>
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### 💻 Core Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-2B2D42?style=for-the-badge)
+![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge)
 
-### 🤖 AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+### 🔩 Microcontrollers & Boards
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Pixhawk](https://img.shields.io/badge/Pixhawk-1A1A2E?style=for-the-badge)
+
+### 🚁 Robotics & Drone Frameworks
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge)
+![PX4](https://img.shields.io/badge/PX4-2F4858?style=for-the-badge)
+![ArduPilot](https://img.shields.io/badge/ArduPilot-3A6EA5?style=for-the-badge)
+![MAVLink](https://img.shields.io/badge/MAVLink-0B5394?style=for-the-badge)
+![Gazebo](https://img.shields.io/badge/Gazebo-FF5C00?style=for-the-badge)
+
+### ⚙️ RTOS & Firmware
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-6CA0DC?style=for-the-badge)
+![Zephyr](https://img.shields.io/badge/Zephyr_RTOS-6F3DD1?style=for-the-badge)
+![Embedded Linux](https://img.shields.io/badge/Embedded_Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bare Metal](https://img.shields.io/badge/Bare--Metal-202020?style=for-the-badge)
+
+### 📡 Communication Protocols
+![I2C](https://img.shields.io/badge/I2C-4B5563?style=for-the-badge)
+![SPI](https://img.shields.io/badge/SPI-4B5563?style=for-the-badge)
+![UART](https://img.shields.io/badge/UART-4B5563?style=for-the-badge)
+![CAN Bus](https://img.shields.io/badge/CAN_Bus-4B5563?style=for-the-badge)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+
+### 🤖 Vision & AI
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 🌐 Web Technologies
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### ☁️ Cloud & IoT Platforms
+![AWS IoT](https://img.shields.io/badge/AWS_IoT-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud IoT](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Azure IoT](https://img.shields.io/badge/Azure_IoT-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🔧 Tools & Others
+### 🧰 PCB Design & Tools
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion_360-FF6600?style=for-the-badge)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-D81F26?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+---
+
+## 🚀 Currently Building & Exploring
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**🔨 Building**
+- Autonomous flight controllers & failsafe logic
+- Sensor-fusion pipelines (IMU + GPS + barometer)
+- Custom IoT dashboards for telemetry & fleet monitoring
+- Robotic arms with closed-loop motor control
+
+</td>
+<td valign="top" width="50%">
+
+**📚 Exploring**
+- SLAM & visual-inertial odometry for indoor drones
+- Edge AI / on-device inference for real-time vision
+- ROS2 + DDS based multi-robot communication
+- Swarm robotics & decentralized coordination
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="320">
 </div>
 
 ---
@@ -99,7 +165,7 @@ const aditya = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=devadityaraj&show_icons=true&theme=radical&title_color=00F7F7&text_color=ffffff&icon_color=00F7F7&bg_color=0d1117&border_color=00F7F7&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=devadityaraj&theme=radical&stroke=00F7F7&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7&sideLabels=ffffff&background=0d1117&border=00F7F7&hide_border=false" alt="GitHub Streak" />
@@ -115,12 +181,16 @@ const aditya = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  
+
 ![](https://github-profile-trophy.vercel.app/?username=devadityaraj&theme=radical&no-frame=false&no-bg=false&margin-w=4&title=MultiLanguage,Commits,PullRequest,Repositories,Stars,Issues)
 
 </div>
 
 ---
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="450">
+</div>
 
 ## 🎨 Contribution Graph
 
@@ -142,7 +212,7 @@ const aditya = {
 
 <br>
 
-💬 **Open to collaborations, discussions, and opportunities!**
+💬 **Open to collaborations on drones, robotics, embedded systems & IoT projects!**
 
 </div>
 
@@ -171,9 +241,9 @@ const aditya = {
 ---
 
 <div align="center">
-  
-### ⚡ "Code is poetry written in logic" ⚡
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185e-9a22-11eb-8189-b690e34484dc.gif" width="400">
+### ⚡ "If it doesn't fly, debug the firmware. If it doesn't compile, check your soldering." ⚡
+
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="280">
 
 </div>
