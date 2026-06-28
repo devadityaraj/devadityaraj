@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=650&lines=Embedded+Systems+Engineer;Drone+%26+Robotics+Developer;IoT+Solutions+Architect;Bringing+Hardware+to+Life+%F0%9F%9A%81)](https://git.io/typing-svg)
 
 <a href="mailto:adityaraj94505@gmail.com">
-  <img src="https://img.shields.io/badge/📬_Email_Me-adityaraj94505%40gmail.com-00F7F7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email Me" />
+  <img src="https://img.shields.io/badge/📬_Email_Me-adityaraj94505%40gmail.com-00abab?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email Me" />
 </a>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
@@ -24,12 +24,12 @@ From soldering a prototype PCB to flashing a flight controller and watching a qu
 
 ```cpp
 struct Engineer {
-    const char* name        = "Aditya Raj";
+    const char* name         = "Aditya Raj";
     const char* location     = "India 🇮🇳";
     const char* domain[4]    = {"Embedded Systems", "Drones", "Robotics", "IoT"};
     const char* mcu[4]       = {"ESP32", "STM32", "Arduino", "Raspberry Pi"};
     const char* stack[3]     = {"ROS / ROS2", "PX4 / ArduPilot", "RTOS"};
-    bool        currentlyFlying = true;
+    bool  currentlyFlying    = true;
 };
 ```
 
