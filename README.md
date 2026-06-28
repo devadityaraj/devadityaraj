@@ -4,6 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=650&lines=Embedded+Systems+Engineer;Drone+%26+Robotics+Developer;IoT+Solutions+Architect;Bringing+Hardware+to+Life+%F0%9F%9A%81)](https://git.io/typing-svg)
 
+<a href="mailto:adityaraj94505@gmail.com">
+  <img src="https://img.shields.io/badge/📬_Email_Me-adityaraj94505%40gmail.com-00F7F7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email Me" />
+</a>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
@@ -14,9 +18,9 @@
 
 <img align="right" alt="Robot Arm" width="320" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
 
-I'm an **embedded systems & robotics engineer** who lives at the intersection of **hardware and code**. While most developers stop at the screen, I go one step further — writing the firmware that spins motors, the control loops that keep drones airborne, and the sensor pipelines that let machines perceive the world around them.
+I'm an **embedded systems & robotics engineer** who lives at the intersection of **hardware and code**. While most developers stop at the screen, I go one step further: writing the firmware that spins motors, the control loops that keep drones airborne, and the sensor pipelines that let machines perceive the world around them.
 
-From soldering a prototype PCB to flashing a flight controller and watching a quadcopter lift off for the first time — that full hardware-to-software loop is what drives me.
+From soldering a prototype PCB to flashing a flight controller and watching a quadcopter lift off for the first time, that full hardware-to-software loop is what drives me.
 
 ```cpp
 struct Engineer {
@@ -33,42 +37,6 @@ struct Engineer {
 
 ---
 
-## 🎯 Mission Control
-
-<div align="center">
-
-```
-                    ╔═══╗               ╔═══╗
-                     ║   ╲             ╱   ║
-                     ║    ╲           ╱    ║
-                     ║     ●═════════●     ║
-                     ╚═══╗ │         │ ╔═══╝
-                          ╲│   🛸    │╱
-                           ●═════════●
-                          ╱│         │╲
-                     ╔═══╝ │         │ ╚═══╗
-                     ║     ●═════════●     ║
-                     ║    ╱           ╲    ║
-                     ║   ╱             ╲   ║
-                    ╚═══╝               ╚═══╝
-```
-
-```ascii
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║  🔧  Designing & flashing firmware for microcontrollers          ║
-║  🚁  Building and tuning autonomous drones                       ║
-║  🦾  Engineering robots that sense, decide, and move             ║
-║  📡  Connecting devices to the cloud — the IoT way                ║
-║  🧠  Fusing sensors, signals, and embedded AI                     ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
 ## 🛠️ Tech Arsenal
 
 <div align="center">
@@ -80,7 +48,6 @@ struct Engineer {
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded_C-2B2D42?style=for-the-badge)
-![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge)
 
 ### 🔩 Microcontrollers & Boards
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
@@ -115,16 +82,9 @@ struct Engineer {
 ![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### ☁️ Cloud & IoT Platforms
-![AWS IoT](https://img.shields.io/badge/AWS_IoT-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud IoT](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Azure IoT](https://img.shields.io/badge/Azure_IoT-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
 ### 🧰 PCB Design & Tools
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-FF6600?style=for-the-badge)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-D81F26?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -178,30 +138,6 @@ struct Engineer {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=devadityaraj&theme=radical&no-frame=false&no-bg=false&margin-w=4&title=MultiLanguage,Commits,PullRequest,Repositories,Stars,Issues)
-
-</div>
-
----
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="450">
-</div>
-
-## 🎨 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/devadityaraj/devadityaraj/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
@@ -213,16 +149,6 @@ struct Engineer {
 <br>
 
 💬 **Open to collaborations on drones, robotics, embedded systems & IoT projects!**
-
-</div>
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=00F7F7)
 
 </div>
 
